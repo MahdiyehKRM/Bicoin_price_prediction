@@ -1,1 +1,1 @@
-# Bicoin_price_prediction
+# Bitcoin_price_prediction
